@@ -1,3 +1,17 @@
+## Board Filter added.
+
+## Task Drag and Drop added
+
+## Scroll x for boards, scroll y for tasks added and activity scroll added
+
+## attachment, comment and SubTask, you can upload file and send comment
+
+## task details pop up added with delete drop down(...)
+
+## task create, delete and get added
+
+## update tasks with put?? -> It's working but it has annoying bugs
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
